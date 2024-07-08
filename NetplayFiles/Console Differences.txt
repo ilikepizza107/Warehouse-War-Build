@@ -24,10 +24,6 @@
 
 + Project+/Source/Netplay/Net-StageFiles.asm
 	
-* Project+/pf/menu2/sc_selmap.pac
-	Rename MenSelmapIcon_Change.3->MenSelmapIcon_Change.4
-	Rename MenSelmapIcon_Change.4->MenSelmapIcon_Change.3
-
 * Project+/pf/menu3/dnet.cmnu
 	For Netplay Code Menu
 
@@ -36,6 +32,3 @@
 	
 - Project+/st
 	Delete stage builder stage folder
-	
-+ Project+/pf/toy/seal
-	Fixes bad sticker textures
