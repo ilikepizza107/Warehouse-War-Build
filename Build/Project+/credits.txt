@@ -61,7 +61,7 @@ SHEIK
 ICE CLIMBERS
 
 MARTH
-34 - Jagz$ Marth by Shmoo, FingerStripes
+40 - Jagz$ Marth by Shmoo, FingerStripes
 
 MR. GAME & WATCH
 
@@ -107,7 +107,7 @@ IVYSAUR
 DEDEDE
 
 LUCARIO
-15 - Raze Lucario by ???
+15 - Raze Lucario by FingerStripes
 30 - Hibou Lucario by ilikepizza107
 
 IKE
@@ -131,7 +131,7 @@ WOLF
 34 - Kakashi Wolf by Autumn
 
 SNAKE
-SoulOfficer Snake by ilikepizza107, with credit to Autumn
+40 - SoulOfficer Snake by ilikepizza107, with credit to Autumn
 
 SONIC
 25 - SipMastah Sonic by Motobug
@@ -164,4 +164,4 @@ MENUS
 
 New "Ready To Fight!" Model by Xenthos
 
-CSS + SSS by ilikepizza107
+CSS + SSS by ilikepizza107 (4,515KB CSS)
