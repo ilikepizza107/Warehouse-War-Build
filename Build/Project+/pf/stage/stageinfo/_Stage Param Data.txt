@@ -6,6 +6,13 @@ Battlefield.param
 	Battlefield.tlst
 
 ################
+Battlefield_DPAD.param
+
+	STGBATTLEFIELD.pac
+	st_battle.rel
+	Battlefield.tlst
+
+################
 Battlefield_L.param
 
 	STGBATTLEFIELD_L_BF_MELEE.pac
@@ -101,6 +108,13 @@ Bowser_Castle.param
 	Bowsers_Castle.tlst
 
 ################
+Bowser_Castle_DPAD.param
+
+	STGBOWSERCASTLE.pac
+	st_final.rel
+	Bowsers_Castle.tlst
+
+################
 Bowser_Castle_L.param
 
 	STGBOWSERCASTLE_L_THWOMPS.pac
@@ -126,11 +140,11 @@ Bowser_Castle_Z.param
 Break_The_Targets.param
 
 	[Substages / Normal]
-	- STGTARGETLV1.PAC
-	- STGTARGETLV2.PAC
-	- STGTARGETLV3.PAC
-	- STGTARGETLV4.PAC
-	- STGTARGETLV5.PAC
+	- STGTARGETLV1.pac
+	- STGTARGETLV2.pac
+	- STGTARGETLV3.pac
+	- STGTARGETLV4.pac
+	- STGTARGETLV5.pac
 
 	st_tbreak.rel
 	Break_The_Targets.tlst
@@ -141,8 +155,8 @@ Break_The_Targets.param
 Castle_Siege.param
 
 	[Substages / DualLoad]
-	- STGCASTLESIEGE.PAC
-	- STGCASTLESIEGE_SBG.PAC
+	- STGCASTLESIEGE.pac
+	- STGCASTLESIEGE_SBG.pac
 
 	st_castlesiege_notransform.rel
 	Castle_Siege.tlst
@@ -163,8 +177,8 @@ Castle_Siege_L.param
 Castle_Siege_ML_00.param
 
 	[Substages / DualLoad]
-	- STGCASTLESIEGE.PAC
-	- STGEMBLEM_02.PAC
+	- STGCASTLESIEGE.pac
+	- STGEMBLEM_02.pac
 
 	st_castlesiege_02.rel
 	Castle_Siege.tlst
@@ -176,8 +190,8 @@ Castle_Siege_ML_00.param
 Castle_Siege_MR_00.param
 
 	[Substages / DualLoad]
-	- STGCASTLESIEGE.PAC
-	- STGEMBLEM_00.PAC
+	- STGCASTLESIEGE.pac
+	- STGEMBLEM_00.pac
 
 	st_castlesiege_notransform.rel
 	Castle_Siege.tlst
@@ -189,8 +203,8 @@ Castle_Siege_MR_00.param
 Castle_Siege_R.param
 
 	[Substages / DualLoad]
-	- STGCASTLESIEGE_R_TOT_SIEGE.PAC
-	- STGCASTLESIEGE_R_SBG.PAC
+	- STGCASTLESIEGE_R_TOT_SIEGE.pac
+	- STGCASTLESIEGE_R_SBG.pac
 
 	st_castlesiege_notransform.rel
 	Castle_Siege.tlst
@@ -202,10 +216,10 @@ Castle_Siege_R.param
 Castle_Siege_X.param
 
 	[Substages / DualLoad]
-	- STGEMBLEM.PAC
-	- STGEMBLEM_00.PAC
-	- STGEMBLEM_01.PAC
-	- STGEMBLEM_02.PAC
+	- STGEMBLEM.pac
+	- STGEMBLEM_00.pac
+	- STGEMBLEM_01.pac
+	- STGEMBLEM_02.pac
 
 	st_castlesiege.rel
 	Castle_Siege_Brawl.tlst
@@ -217,8 +231,8 @@ Castle_Siege_X.param
 Castle_Siege_Z.param
 
 	[Substages / DualLoad]
-	- STGCASTLESIEGE_Z_BF_SIEGE.PAC
-	- STGCASTLESIEGE_Z_SBG.PAC
+	- STGCASTLESIEGE_Z_BF_SIEGE.pac
+	- STGCASTLESIEGE_Z_SBG.pac
 
 	st_castlesiege_notransform.rel
 	Castle_Siege.tlst
@@ -376,6 +390,13 @@ Dead_Line.param
 	Dead_Line.tlst
 
 ################
+Dead_Line_DPAD.param
+
+	STGDEADLINE.pac
+	st_greenhill_ht.rel
+	Dead_Line.tlst
+
+################
 Dead_Line_L.param
 
 	STGDEADLINE_L_CHEMICALPLANT.pac
@@ -522,6 +543,22 @@ Dream_Land.param
 	SFX / GFX: 0x006C / 0x005E
 
 ################
+Dream_Land_DPAD.param
+
+	STGDREAMLAND.pac
+	st_dreamland64_ht.rel
+	Dream_Land.tlst
+	SFX / GFX: 0x006C / 0x005E
+
+################
+Dream_Land_DPADUP.param
+
+	STGDREAMLAND.pac
+	st_dreamland64_ht.rel
+	Dream_Land.tlst
+	SFX / GFX: 0x006C / 0x005E
+
+################
 Dream_Land_L.param
 
 	STGDREAMLAND_L_DL_WINTER.pac
@@ -557,9 +594,9 @@ Dream_Land_Z.param
 Edit_Stage.param
 
 	[Substages / Normal]
-	- STGEDIT_0.PAC
-	- STGEDIT_1.PAC
-	- STGEDIT_2.PAC
+	- STGEDIT_0.pac
+	- STGEDIT_1.pac
+	- STGEDIT_2.pac
 
 	st_stageedit.rel
 	
@@ -585,6 +622,14 @@ Event_31.param
 
 ################
 Final_Destination.param
+
+	STGFINALDESTINATION.pac
+	st_final.rel
+	Final_Destination.tlst
+	SFX / GFX: 0xFFFF / 0x0033
+
+################
+Final_Destination_DPAD.param
 
 	STGFINALDESTINATION.pac
 	st_final.rel
@@ -692,7 +737,7 @@ Fountain_of_Dreams_L.param
 Fountain_of_Dreams_R.param
 
 	STGFOUNTAINOFDREAMS_R_FOD_CAVE.pac
-	st_final.rel
+	st_dxfountain_ht.rel
 	Fountain_of_Dreams.tlst
 
 ################
@@ -742,6 +787,14 @@ Fourside_Z.param
 
 ################
 Frigate_Husk.param
+
+	STGFRIGATEHUSK.pac
+	st_final.rel
+	Frigate_Orpheon.tlst
+	SFX / GFX: 0x0056 / 0x0032
+
+################
+Frigate_Husk_DPAD.param
 
 	STGFRIGATEHUSK.pac
 	st_final.rel
@@ -811,6 +864,14 @@ Golden_Temple_Z.param
 
 ################
 Green_Hill_Zone.param
+
+	STGGREENHILLZONE.pac
+	st_greenhill_ht.rel
+	Green_Hill_Zone.tlst
+	SFX / GFX: 0x0066 / 0x0054
+
+################
+Green_Hill_Zone_DPAD.param
 
 	STGGREENHILLZONE.pac
 	st_greenhill_ht.rel
@@ -1086,6 +1147,14 @@ Luigis_Mansion.param
 	SFX / GFX: 0x004E / 0x0035
 
 ################
+Luigis_Mansion_DPAD.param
+
+	STGLUIGISMANSION.pac
+	st_final.rel
+	Luigis_Mansion.tlst
+	SFX / GFX: 0x004E / 0x0035
+
+################
 Luigis_Mansion_L.param
 
 	STGLUIGISMANSION_L_KINGBOOILLUSION.pac
@@ -1111,11 +1180,11 @@ Luigis_Mansion_Z.param
 Lylat_Cruise.param
 
 	[Substages / DualLoad]
-	- STGLYLATCRUISE.PAC
-	- STGSTARFOX_ASTEROID.PAC
-	- STGSTARFOX_BATTLESHIP.PAC
-	- STGSTARFOX_CORNERIA.PAC
-	- STGSTARFOX_SPACE.PAC
+	- STGLYLATCRUISE.pac
+	- STGSTARFOX_ASTEROID.pac
+	- STGSTARFOX_BATTLESHIP.pac
+	- STGSTARFOX_CORNERIA.pac
+	- STGSTARFOX_SPACE.pac
 
 	st_starfox_norotate.rel
 	Lylat_Cruise.tlst
@@ -1142,11 +1211,11 @@ Lylat_Cruise_R.param
 Lylat_Cruise_X.param
 
 	[Substages / DualLoad]
-	- STGLYLATCRUISE.PAC
-	- STGSTARFOX_ASTEROID.PAC
-	- STGSTARFOX_BATTLESHIP.PAC
-	- STGSTARFOX_CORNERIA.PAC
-	- STGSTARFOX_SPACE.PAC
+	- STGLYLATCRUISE.pac
+	- STGSTARFOX_ASTEROID.pac
+	- STGSTARFOX_BATTLESHIP.pac
+	- STGSTARFOX_CORNERIA.pac
+	- STGSTARFOX_SPACE.pac
 
 	st_starfox.rel
 	Lylat_Cruise.tlst
@@ -1195,8 +1264,8 @@ Mario_Circuit_Z.param
 Metal_Cavern.param
 
 	[Substages / RandomVariance]
-	- STGMETALCAVERN_00.PAC
-	- STGMETALCAVERN_01.PAC
+	- STGMETALCAVERN_00.pac
+	- STGMETALCAVERN_01.pac
 
 	st_final.rel
 	Metal_Cavern.tlst
@@ -1236,8 +1305,8 @@ Metal_Cavern_YZ.param
 Metal_Cavern_Z.param
 
 	[Substages / RandomVariance]
-	- STGMETALCAVERN_Z_00_64_REMAKE.PAC
-	- STGMETALCAVERN_Z_01_64_REMAKE.PAC
+	- STGMETALCAVERN_Z_00_64_REMAKE.pac
+	- STGMETALCAVERN_Z_01_64_REMAKE.pac
 
 	st_final.rel
 	Metal_Cavern.tlst
@@ -1282,7 +1351,7 @@ Mushroom_Kingdom.param
 Mushroom_Kingdom_L.param
 
 	[Substages / Normal]
-	- STGMUSHROOMKINGDOM_L_1-1.PAC
+	- STGMUSHROOMKINGDOM_L_1-1.pac
 
 	st_mariopast.rel
 	Mushroomy_Kingdom.tlst
@@ -1293,8 +1362,8 @@ Mushroom_Kingdom_L.param
 Mushroom_Kingdom_LR.param
 
 	[Substages / Normal]
-	- STGMUSHROOMKINGDOM_LR_1-1.PAC
-	- STGMUSHROOMKINGDOM_LR_1-2.PAC
+	- STGMUSHROOMKINGDOM_LR_1-1.pac
+	- STGMUSHROOMKINGDOM_LR_1-2.pac
 
 	st_mariopast.rel
 	Mushroomy_Underground.tlst
@@ -1542,6 +1611,16 @@ Pokemon_Stadium_2.param
 	st_stadium_static.rel
 	Pokemon_Stadium_2.tlst
 	SFX / GFX: 0x0059 / 0x0045
+	MemoryAllocation: 0x209767 (2135911 bytes)
+
+################
+Pokemon_Stadium_2_DPAD.param
+
+	STGPOKEMONSTADIUM.pac
+	st_stadium_static.rel
+	Pokemon_Stadium_2.tlst
+	SFX / GFX: 0x0059 / 0x0045
+	MemoryAllocation: 0x209767 (2135911 bytes)
 
 ################
 Pokemon_Stadium_2_L.param
@@ -1554,10 +1633,11 @@ Pokemon_Stadium_2_L.param
 ################
 Pokemon_Stadium_2_R.param
 
-	STGPOKEMONSTADIUM_R_RADIANT.pac
+	STGPOKEMONSTADIUM_R_DEFAULT.pac
 	st_stadium_static.rel
 	Pokemon_Stadium_2.tlst
 	SFX / GFX: 0x0059 / 0x0045
+	MemoryAllocation: 0x209767 (2135911 bytes)
 
 ################
 Pokemon_Stadium_2_X.param
@@ -1695,6 +1775,132 @@ Results.param
 	Results.tlst
 
 ################
+Results_BC.param
+
+	STGRESULT_STGBOWSERCASTLE.pac
+	
+	Results.tlst
+
+################
+Results_BF.param
+
+	STGRESULT_STGBATTLEFIELD.pac
+	
+	Results.tlst
+
+################
+Results_DE.param
+
+	STGRESULT_STGDEADLINE.pac
+	
+	Results.tlst
+
+################
+Results_DF.param
+
+	STGRESULT.pac
+	
+	Results.tlst
+
+################
+Results_DL.param
+
+	STGRESULT_STGDREAMLAND.pac
+	
+	Results.tlst
+
+################
+Results_DS.param
+
+	STGRESULT_STGDELFINOSECRET.pac
+	
+	Results.tlst
+
+################
+Results_FD.param
+
+	STGRESULT_STGFINALDESTINATION.pac
+	
+	Results.tlst
+
+################
+Results_FH.param
+
+	STGRESULT_STGFRIGATEHUSK.pac
+	
+	Results.tlst
+
+################
+Results_GH.param
+
+	STGRESULT_STGGREENHILLZONE.pac
+	
+	Results.tlst
+
+################
+Results_GT.param
+
+	STGRESULT_STGGOLDENTEMPLE.pac
+	
+	Results.tlst
+
+################
+Results_LM.param
+
+	STGRESULT_STGLUIGISMANSION.pac
+	
+	Results.tlst
+
+################
+Results_PR.param
+
+	STGRESULT_STGPOKEMONSTADIUM2_R.pac
+	
+	Results.tlst
+
+################
+Results_PS.param
+
+	STGRESULT_STGPOKEMONSTADIUM2.pac
+	
+	Results.tlst
+
+################
+Results_SV.param
+
+	STGRESULT_STGSMASHVILLE.pac
+	
+	Results.tlst
+
+################
+Results_TD.param
+
+	STGRESULT_STGTRAININGROOM_MR_DARK.pac
+	
+	Results.tlst
+
+################
+Results_TR.param
+
+	STGRESULT_STGTRAININGROOM.pac
+	
+	Results.tlst
+
+################
+Results_TT.param
+
+	STGRESULT_STGTEMPLEOFTIME.pac
+	
+	Results.tlst
+
+################
+Results_YI.param
+
+	STGRESULT_STGYOSHISISLAND.pac
+	
+	Results.tlst
+
+################
 Rumble_Falls.param
 
 	STGRUMBLEFALLS.pac
@@ -1780,9 +1986,9 @@ Saffron_City_Z.param
 Shadow_Moses.param
 
 	[Substages / RandomVariance]
-	- STGSHADOWMOSES_00_GEKKO.PAC
-	- STGSHADOWMOSES_01_RAY.PAC
-	- STGSHADOWMOSES_02_REX.PAC
+	- STGSHADOWMOSES_00_GEKKO.pac
+	- STGSHADOWMOSES_01_RAY.pac
+	- STGSHADOWMOSES_02_REX.pac
 
 	st_metalgear.rel
 	Shadow_Moses_Island.tlst
@@ -1879,14 +2085,32 @@ Sky_Sanctuary_Z.param
 Smashville.param
 
 	[Substages / Normal]
-	- STGSMASHVILLE_00_MORNING.PAC
-	- STGSMASHVILLE_01_NOON.PAC
-	- STGSMASHVILLE_02_DUSK.PAC
-	- STGSMASHVILLE_03_NIGHT.PAC
-	- STGSMASHVILLE_03_NIGHT.PAC
-	- STGSMASHVILLE_03_NIGHT.PAC
-	- STGSMASHVILLE_04_MIDNIGHT.PAC
-	- STGSMASHVILLE_04_MIDNIGHT.PAC
+	- STGSMASHVILLE_00_MORNING.pac
+	- STGSMASHVILLE_01_NOON.pac
+	- STGSMASHVILLE_02_DUSK.pac
+	- STGSMASHVILLE_03_NIGHT.pac
+	- STGSMASHVILLE_03_NIGHT.pac
+	- STGSMASHVILLE_03_NIGHT.pac
+	- STGSMASHVILLE_04_MIDNIGHT.pac
+	- STGSMASHVILLE_04_MIDNIGHT.pac
+
+	st_smashville_ht.rel
+	Smashville.tlst
+	SFX / GFX: 0x0064 / 0x0032
+	Flags: OldSubstage
+
+################
+Smashville_DPAD.param
+
+	[Substages / Normal]
+	- STGSMASHVILLE_00_MORNING.pac
+	- STGSMASHVILLE_01_NOON.pac
+	- STGSMASHVILLE_02_DUSK.pac
+	- STGSMASHVILLE_03_NIGHT.pac
+	- STGSMASHVILLE_03_NIGHT.pac
+	- STGSMASHVILLE_03_NIGHT.pac
+	- STGSMASHVILLE_04_MIDNIGHT.pac
+	- STGSMASHVILLE_04_MIDNIGHT.pac
 
 	st_smashville_ht.rel
 	Smashville.tlst
@@ -1913,14 +2137,14 @@ Smashville_R.param
 Smashville_Y.param
 
 	[Substages / Normal]
-	- STGSMASHVILLE_00_MORNING.PAC
-	- STGSMASHVILLE_01_NOON.PAC
-	- STGSMASHVILLE_02_DUSK.PAC
-	- STGSMASHVILLE_03_NIGHT.PAC
-	- STGSMASHVILLE_03_NIGHT.PAC
-	- STGSMASHVILLE_03_NIGHT.PAC
-	- STGSMASHVILLE_04_MIDNIGHT.PAC
-	- STGSMASHVILLE_04_MIDNIGHT.PAC
+	- STGSMASHVILLE_00_MORNING.pac
+	- STGSMASHVILLE_01_NOON.pac
+	- STGSMASHVILLE_02_DUSK.pac
+	- STGSMASHVILLE_03_NIGHT.pac
+	- STGSMASHVILLE_03_NIGHT.pac
+	- STGSMASHVILLE_03_NIGHT.pac
+	- STGSMASHVILLE_04_MIDNIGHT.pac
+	- STGSMASHVILLE_04_MIDNIGHT.pac
 
 	st_smashville_ht.rel
 	Smashville_Concert.tlst
@@ -1966,9 +2190,9 @@ Smashville_Z.param
 Spear_Pillar.param
 
 	[Substages / RandomVariance]
-	- STGSPEARPILLAR_00_DIALGA.PAC
-	- STGSPEARPILLAR_01_PALKIA.PAC
-	- STGSPEARPILLAR_02_CRESSELIA.PAC
+	- STGSPEARPILLAR_00_DIALGA.pac
+	- STGSPEARPILLAR_01_PALKIA.pac
+	- STGSPEARPILLAR_02_CRESSELIA.pac
 
 	st_tengan.rel
 	Spear_Pillar.tlst
@@ -1985,9 +2209,9 @@ Spear_Pillar_L.param
 Spear_Pillar_R.param
 
 	[Substages / RandomVariance]
-	- STGSPEARPILLAR_R_BF_00_DIALGA.PAC
-	- STGSPEARPILLAR_R_BF_01_PALKIA.PAC
-	- STGSPEARPILLAR_R_BF_02_GIRATINA.PAC
+	- STGSPEARPILLAR_R_BF_00_DIALGA.pac
+	- STGSPEARPILLAR_R_BF_01_PALKIA.pac
+	- STGSPEARPILLAR_R_BF_02_GIRATINA.pac
 
 	st_battle_noshadowrotate.rel
 	Spear_Pillar.tlst
@@ -2052,6 +2276,13 @@ Temple_L.param
 
 ################
 Temple_of_Time.param
+
+	STGTEMPLEOFTIME.pac
+	st_final.rel
+	Temple_of_Time.tlst
+
+################
+Temple_of_Time_DPAD.param
 
 	STGTEMPLEOFTIME.pac
 	st_final.rel
@@ -2127,14 +2358,14 @@ Training_LR.param
 ################
 Training_MR_00.param
 
-	STGTRAININGROOM_MR_DARK.pac
+	STGTRAININGROOM_MR_CONFIG.pac
 	st_mansion.rel
 	Training_Room.tlst
 
 ################
 Training_MR_01.param
 
-	STGTRAININGROOM_MR_CONFIG.pac
+	STGTRAININGROOM_MR_DARK.pac
 	st_mansion.rel
 	Training_Room.tlst
 
