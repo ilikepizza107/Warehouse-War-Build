@@ -2,6 +2,9 @@
 PSA
 ################
 
+PSA edits for SipMastah Sonic trails by ilikepizza107
+ -PSA Edited: Sub Routine 0x2E5AC
+
 ################
 SKINS
 ################
@@ -13,24 +16,43 @@ DONKEY KONG
 LINK
 
 SAMUS
+40 - Brawl Fake Samus by SJS [https://gamebanana.com/mods/247126]
 
 YOSHI
 
 KIRBY
+25 - Shenanigans Kirby by ilikepizza107
+40 - Star Red Kirby by influenza, ilikepizza107
+41 - Star Blue Kirby by influenza, ilikepizza107
+42 - Star Green Kirby by influenza, ilikepizza107
 
 FOX
+09 - Suezo Fox by ilikepizza107
+10 - Silver Fox by Baka
+11 - Star's Blue Fox by ilikepizza107
+12 - Star's Green Fox by ilikepizza107
+25 - Den Fox by ilikepizza107
+30 - Ping Fox by ilikepizza107
+40 - Drip Fox by Wyld
 
 PIKACHU
 
 LUIGI
 
 CAPTAIN FALCON
+35 - ORLY Falcon by Wyld
+36 - Stude Falcon by Motobug
+37 - SoulOfficer Falcon by influenza
+45 - shad Falcon by influenza, ilikepizza107
 
 NESS
+25 - Rooster Ness by ilikepizza107
+26 - Ntire Ness by ilikepizza107
 
 BOWSER
 
 PEACH
+09 - Cyphr Peach by ilikepizza107
 
 ZELDA
 
@@ -39,24 +61,40 @@ SHEIK
 ICE CLIMBERS
 
 MARTH
+40 - Jagz$ Marth by Shmoo, FingerStripes
 
 MR. GAME & WATCH
 
 FALCO
+26 - Atari Falco by ilikepizza107
 
 GANONDORF
 
 META KNIGHT
+06 - NorCal MK by FingerStripes
+07 - IN MK by DIce
+25 - Violet Butterfly MK by efisio
 
 PIT
+40 - Star Red Pit by SJS, Star, ilikepizza107
+41 - Star Blue Pit by SJS, Star, ilikepizza107
+42 - Star Green Pit by SJS, Star, ilikepizza107
 
 ZERO SUIT SAMUS
+40 - RosiYY ZSS by ilikepizza107
 
 OLIMAR
+40 - CP9 Olimar by FingerStripes
 
 LUCAS
+40 - Star Red Lucas by Star, SJS
+41 - Star Blue Lucas by Star, SJS
+42 - Star Green Lucas by Star, SJS
+45 - Shadowhawke Lucas by SJS
 
 DIDDY KONG
+25 - Cantus Diddy Kong by ilikepizza107
+26 - SipMastah Diddy Kong by GKO
 
 MEWTWO
 
@@ -69,24 +107,34 @@ IVYSAUR
 DEDEDE
 
 LUCARIO
+15 - Raze Lucario by FingerStripes
+30 - Hibou Lucario by ilikepizza107
 
 IKE
+07 - Moist Ike by ilikepizza107
 
 R.O.B.
+07 - Xtreme ROB by ilikepizza107
 
 JIGGLYPUFF
 
 WARIO
 
 ROY
+09 - Atari Roy by ilikepizza107
 
 TOON LINK
 
 WOLF
+06 - Brawl White Wolf
+25 - Den Wolf by ilikepizza107
+34 - Kakashi Wolf by Autumn
 
 SNAKE
+40 - SoulOfficer Snake by ilikepizza107, with credit to Autumn
 
 SONIC
+25 - SipMastah Sonic by Motobug
 
 WARIO MAN
 
@@ -99,11 +147,16 @@ KNUCKLES
 STAGES
 ########################
 
+BATTLEFIELD
+Base - Daytime BF by ilikepizza107
+
 POKEMON STADIUM 2
-Base - WHW3 PS2 by ilikepizza107
+Base - WHW4 PS2 by ilikepizza107
 
 SMASHVILLE
-Spike balloon by ilikepizza107
+Base - Spike balloon textures by ilikepizza107
+R - Spike Balloon textures by ilikepizza107
+
 
 ################
 MENUS
@@ -111,6 +164,4 @@ MENUS
 
 New "Ready To Fight!" Model by Xenthos
 
-"Wage War!" texture by ilikepizza107
-
-WHW3 CSS and SSS logos by Rooster
+CSS + SSS by ilikepizza107 (4,546KB CSS)

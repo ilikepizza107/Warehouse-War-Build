@@ -1,32 +1,85 @@
+**TO ACCESS VANILLA P+ TRACKLISTS, HOLD ANY DPAD BUTTON WHEN SELECTING THE STAGE**
+*When dpad up is pressed on Dream Land, Gourmet Race will play*
+
 BATTLEFIELD
 	Paradigm Shift (Final Fantasy XIII-2)
 	Battlefield - Storm (Etrian Odyssey IV)
 	Race Around The World (Castle Crashers)
+	Castle Crashers/Race Around The World (Castle Crashers).brstm
 	Iron-Blooded Orphans (Mobile Suit Gundam)
+	Gundam/Iron-Blooded Orphans (Mobile Suit Gundam).brstm
 	Decisive Battle II (Octopath Traveler)
-	Colgera Theme (The Legend of Zelda: Tears of the Kingdom)
+	Octopath Traveler/Decisive Battle II (Octopath Traveler).brstm
+	Colgera Theme (LoZ: TotK)
 	Strong and Strike (Naruto)
+
+BOWSERS CASTLE
+	Bowser Battle (Paper Mario The Thousand Year Door)
+	Mount Vesuvius (DuckTales Remastered)
+	Big Top Bop (Donkey Kong Country Tropical Freeze)
+	Lava Scarves and Red Hot Blargss (Yoshi's Woolly World)
+	Attack on the Koopa Bros. (Paper Mario)
+	The 13th Struggle (Kingdom Hearts II)
+	The Ultimate Show (Super Paper Mario)
+	The Science Wizard Arranged (Shovel Knight)
+	Aether Foundation Employee (Pokemon Sun & Moon)
+
+DEAD LINE
+	Fighting In The Street (Streets of Rage)
+	Boomer Kuwanger (Megaman X)
+	Jin Kazama (Tekken 3 Arcade)
+	Rooftop Run Modern (Sonic Generations)
+	Groovy Long Legs (Pikmin 4)
+	Penny Battle (Pokemon Scarlet & Violet)
+	Corneria (Star Fox Zero)
+	Tokyo Shock (IYO SKY)
+
+DREAM LAND
+	Faded Dream of a Psychomeddler (Kirby and the Forgotten Land)
+	Moonsiders 1st (Tekken 7)
+	Keep Pressing On (Dual Destinies)
+	Autumn Mountain (Paper Mario The Origami King)
+	Cookie Country (Kirby's Return to Dream Land)
+	Rock Star Theme (Kirby 64 The Crystal Shards)
+	Love You Love You Love (Mighty Switch Force)
+	The World to Win (Kirby Triple Deluxe)
+
+FINAL DESTINATION
+	The Wight to Remain (Crypt of the NecroDancer)
+	Confronting Myself (Celeste)
+	The Grand Finale (Mario & Luigi Bowser's Inside Story)
+
+FRIGATE HUSK
+	Tarranis (Super Stardust HD)
+	Digital Ignition (Street Fighter EX 2 Plus)
+	Beats From Above (Klonoa Door To Phantomile)
+	Specters of Sissel (Ghost Trick Phantom Detective)
+	Interplanetary Combat Ship (Star Fox Zero)
 
 GREEN HILL ZONE
 	Original Bet (Guilty Gear Xrd)
 	Gangplank Galleon (Donkey Kong)
 	Knight of the Wind (Sonic and the Black Knight)
 	snow storm (dj TAKA)
-	Super Sonic Racing (Sonic Racing)
+	Super Sonic Racing
 	Those Who Fight Further - The Black Mages (Final Fantasy VII)
 	Studiopolis (Sonic Mania)
 	Get Down to Business (Guilty Gear XX AC)
+	Guilty Gear/Get Down to Business (Guilty Gear XX Accent Core).brstm
 	Juno (Guilty Gear Xrd)
+	Normal Battle Large Map (SMT Nocturne)
 
 LUIGI'S MANSION
-	Hot Top Volcano (Diddy Kong Racing)
+Hot Top Volcano (Diddy Kong Racing)
+	Donkey Kong/Hot Top Volcano (Diddy Kong Racing).brstm
 	The Kid Who Drowned at Summer Camp (Hot Sugar)
 	Styx and Stones (Crypt of the NecroDancer)
 	Krazy King Kut-Out (Donkey Kong 64)
 	Smorgs Battle (Paper Mario TTYD)
 	Shadow Queen (Paper Mario TTYD)
+	Battle - Chapter 4 (Paper Mario TTYD Remake)
 
-MENU 
+MENU
 	Menu (Star Fox Assault)
 	Rogueport (Paper Mario The Thousand Year Door)
 	Ain't That Funny (MadWorld)
@@ -46,8 +99,8 @@ METAL CAVERN
 
 POKEMON STADIUM 2
 	Team Star (Pokemon OR & AS)
-	Zinnia Battle Music (Pokemon OR & AS)
-	Rival Battle (Pokemon OR & AS)
+	Battle! Lorekeeper Zinnia
+	Battle! Rival (Pokémon Omega Ruby & Alpha Sapphire)
 	Battle Theme (Final Fantasy VI)
 	The Rising Sun (Shinsuke Nakamura)
 	Hard Boiled Heavies (Sonic Mania)
@@ -55,7 +108,10 @@ POKEMON STADIUM 2
 	Gym Leader Battle (Pokemon Sword & Shield)
 
 RESULTS
-	Network Lobby Music (Darkstalkers)
+	Also Sprach Brooks (Catherine)
+	Menu (Metal Gear Solid 2)
+	Network Lobby Music (Darkstalkers Chronicle)
+	On the Job (Tramua Team)
 
 SMASHVILLE
 	Miror B.'s Retro Groove (Pokemon Colosseum)
@@ -65,3 +121,13 @@ SMASHVILLE
 	Feather Fiend (Donkey Kong Country Returns)
 	Outer Rings (Kirby's Epic Yarn)
 	Animal Crossing - Autumn (Mario Kart 8 Deluxe)
+	Vs. Burt the Bashful (Yoshi's Woolly World)
+	Abandoned Beach (Kirby and the Forgotten Land)
+
+TEMPLE OF TIME
+	Baladium's Drive (Klonoa Door To Phantomile)
+	Knight of the Goddess (Final Fantasy XIII-2)
+	Moonlit Wilderness (Tekken 5)
+	Molgera (TLoZ: The Wind Waker HD)
+	Sunset Colosseum (Pokemon Battle Revolution)
+	Moonlight Canyon (Kirby and the Forgotten Land)
