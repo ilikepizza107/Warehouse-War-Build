@@ -788,7 +788,7 @@ StageResults:
 	cmpwi r6, 0x04; li r5, 0x4C4D; beq StoreString	# Luigi's Mansion
 	cmpwi r6, 0x06; li r5, 0x4243; beq StoreString	# Bowser's Castle
 	cmpwi r6, 0x09; li r5, 0x5454; beq StoreString	# Temple of Time
-	cmpwi r6, 0x0C; li r5, 0x4648; beq StoreString	# Frigate Husk
+	cmpwi r6, 0x0C; beq Frigate_Results				# Frigate Husk
 	cmpwi r6, 0x0D; li r5, 0x5949; beq StoreString	# Yoshi's Island
 	cmpwi r6, 0x21; li r5, 0x5356; beq StoreString	# Smashville
 	cmpwi r6, 0x23; li r5, 0x4748; beq StoreString	# Green Hill Zone
@@ -815,7 +815,16 @@ PS2_Results:
 	beq StoreString			#
 	li r5, 0x5052			# If so, use "PR"
 	b StoreString
-	
+
+Frigate_Results:
+	li r5, 0x4648			# Use "FH"
+    %lwi(r12, 0x8053EFBA)   # Get ASL ID
+	lhz r12, 0(r12)
+	andi. r12, r12, 0x0040	# Check if L alt was used
+	beq StoreString			#
+	li r5, 0x484D			# If so, use "HM"
+	b StoreString
+
 Default:
 	li r5, 0x4446
 	b StoreString
