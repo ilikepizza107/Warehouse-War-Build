@@ -127,6 +127,8 @@ HOOK @ $80949BEC
 	lhz r4, -0xFEE(r12)		# / Effectbank ID to load @ $8054F012
 	stw r4, 0x94(r3)   	 	# store stage effectbank ID, not read by SSE
 }
+/*
+### NO LONGER USED, LEFT HERE FOR NOW TO REMEMBER HOW IT WAS ACHIEVED
 ###
 # Load RGBA Overlay
 # Suggested values for overlays:
@@ -154,7 +156,7 @@ HOOK @ $8083413c	# Fighter::postInitialize
 	mtctr r12 				# |
 	bctr					# /
 }
-
+*/
 ###
 # Load Secondary Stage Name on Slots 0x13 and 0x19
 op NOP @ $8094AB24			# Make all dual pac stages run the same code
@@ -854,7 +856,7 @@ end:
 ##########################
 
 	lis r12, 0x8053			# Stage files write to 8053F000
-	ori r12, r12, 0xF000	
+	ori r12, r12, 0xF000
 
 	addi r3, r1, 0x90
 	lis r4, 0x8048			#
