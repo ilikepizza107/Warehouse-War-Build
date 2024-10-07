@@ -65,12 +65,11 @@ GREEN HILL ZONE
 	Those Who Fight Further - The Black Mages (Final Fantasy VII)
 	Studiopolis (Sonic Mania)
 	Get Down to Business (Guilty Gear XX AC)
-	Guilty Gear/Get Down to Business (Guilty Gear XX Accent Core).brstm
 	Juno (Guilty Gear Xrd)
 	Normal Battle Large Map (SMT Nocturne)
 
 LUIGI'S MANSION
-Hot Top Volcano (Diddy Kong Racing)
+	Hot Top Volcano (Diddy Kong Racing)
 	Donkey Kong/Hot Top Volcano (Diddy Kong Racing).brstm
 	The Kid Who Drowned at Summer Camp (Hot Sugar)
 	Styx and Stones (Crypt of the NecroDancer)
