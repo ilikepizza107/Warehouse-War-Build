@@ -649,16 +649,256 @@ Crateria.tlst - 4 tracks
 	Frequency: 40
 
 ################
-Credits.tlst - 2 tracks
+Credits.tlst - 50 tracks
 
-	<null>
+	Mario
+	A07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Donkey Kong
+	B05.brstm
+	Volume: 80
+	Frequency: 40
+
+	Link
+	C07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Samus
+	D03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Yoshi
+	E01.brstm
+	Volume: 80
+	Frequency: 40
+
+	Kirby
+	F04.brstm
+	Volume: 80
+	Frequency: 40
+
+	Fox
+	H01.brstm
+	Volume: 80
+	Frequency: 40
+
+	Pikachu
+	H02.brstm
+	Volume: 80
+	Frequency: 40
+
+	Luigi
+	A09.brstm
+	Volume: 80
+	Frequency: 40
+
+	Captain Falcon
+	I03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Ness
+	K01.brstm
+	Volume: 80
+	Frequency: 40
+
+	Bowser
+	W31.brstm
+	Volume: 80
+	Frequency: 40
+
+	Peach
+	A07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Zelda
+	C09.brstm
+	Volume: 80
+	Frequency: 40
+
+	Sheik
+	C09.brstm
+	Volume: 80
+	Frequency: 40
+
+	Popo
+	Q07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Nana
+	Q07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Marth
+	W17.brstm
+	Volume: 80
+	Frequency: 40
+
+	Mr. Game and Watch
+	R04.brstm
+	Volume: 80
+	Frequency: 40
+
+	Falco
+	G03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Ganondorf
+	C13.brstm
+	Volume: 80
+	Frequency: 40
+
+	Wario
+	M02.brstm
+	Volume: 80
+	Frequency: 40
+
+	Meta Knight
+	F06.brstm
+	Volume: 80
+	Frequency: 40
+
+	Pit
+	P02.brstm
+	Volume: 80
+	Frequency: 40
+
+	Zero Suit Samus
+	D03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Olimar
+	L07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Lucas
+	K08.brstm
+	Volume: 80
+	Frequency: 40
+
+	Diddy Kong
+	B05.brstm
+	Volume: 80
+	Frequency: 40
+
+	Pokemon Trainer
+	H03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Charizard
+	H03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Squirtle
+	H03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Ivysaur
+	H03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Dedede
+	F02.brstm
+	Volume: 80
+	Frequency: 40
+
+	Lucario
+	H09.brstm
+	Volume: 80
+	Frequency: 40
+
+	Ike
+	J12.brstm
+	Volume: 80
+	Frequency: 40
+
+	R.O.B.
+	Q02.brstm
+	Volume: 80
+	Frequency: 40
+
+	0x24
+	A07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Jigglypuff
+	H03.brstm
+	Volume: 80
+	Frequency: 40
+
+	Mewtwo
 	Pokemon/Battle! Mewtwo [Stadium].brstm
 	Volume: 80
 	Frequency: 40
 
-	<null>
+	Roy
+	J07.brstm
+	Volume: 80
+	Frequency: 40
+
+	0x28
+	A07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Toon Link
+	C12.brstm
+	Volume: 80
+	Frequency: 40
+
+	0x2A
+	A07.brstm
+	Volume: 80
+	Frequency: 40
+
+	0x2B
+	A07.brstm
+	Volume: 80
+	Frequency: 40
+
+	Wolf
+	G05.brstm
+	Volume: 80
+	Frequency: 40
+
+	Knuckles
 	Sonic/Theme of Knuckles.brstm
-	Volume: 75
+	Volume: 80
+	Frequency: 40
+
+	Snake
+	S11.brstm
+	Volume: 80
+	Frequency: 40
+
+	Sonic
+	U13.brstm
+	Volume: 80
+	Frequency: 40
+
+	Giga Bowser
+	W31.brstm
+	Volume: 80
+	Frequency: 40
+
+	Wario-Man
+	M02.brstm
+	Volume: 80
 	Frequency: 40
 
 ################
@@ -964,7 +1204,7 @@ Dream_Land_64.tlst - 1 track
 	Frequency: 40
 
 ################
-Dream_Land_DPAD.tlst - 15 tracks
+Dream_Land_DPAD.tlst - 14 tracks
 
 	Gourmet Race
 	Kirby/Gourmet Race (SSB).brstm
@@ -1025,11 +1265,6 @@ Dream_Land_DPAD.tlst - 15 tracks
 	Meadow Breeze
 	Kirby/Meadow Breeze.brstm
 	Volume: 80
-	Frequency: 40
-
-	Float Islands
-	Kirby/Float Islands.brstm
-	Volume: 76
 	Frequency: 40
 
 	Meta Knight's Revenge
@@ -1191,7 +1426,7 @@ Flat_Zone.tlst - 2 tracks
 	Frequency: 40
 
 ################
-Fountain_Of_Dreams.tlst - 3 tracks
+Fountain_Of_Dreams.tlst - 12 tracks
 
 	Gourmet Race (Melee)
 	W06.brstm (0x2804)
@@ -1201,6 +1436,51 @@ Fountain_Of_Dreams.tlst - 3 tracks
 	F01.brstm (0x2757)
 	Frequency: 40
 	Song delay: -1
+
+	Moonstruck Blossom
+	Kirby/Moonstruck Blossom.brstm
+	Volume: 65
+	Frequency: 40
+
+	Another Dimension
+	Kirby/Another Dimension.brstm
+	Volume: 60
+	Frequency: 40
+
+	Magma Flows
+	Kirby/Magma Flows.brstm
+	Volume: 70
+	Frequency: 40
+
+	Vs. Marx
+	Kirby/Vs. Marx.brstm
+	Volume: 125
+	Frequency: 40
+
+	Sand Canyon Pyramid
+	Kirby/Sand Canyon Pyramid (KPR).brstm
+	Volume: 65
+	Frequency: 40
+
+	Heavy Lobster
+	Kirby/Heavy Lobster (KRC).brstm
+	Volume: 65
+	Frequency: 40
+
+	The Final Battle
+	Kirby/The Final Battle.brstm
+	Volume: 60
+	Frequency: 40
+
+	Candy Constellation
+	Kirby/Candy Constellation.brstm
+	Volume: 80
+	Frequency: 40
+
+	City Trial
+	Kirby/City Trial.brstm
+	Volume: 74
+	Frequency: 40
 
 	Victory Road
 	H06.brstm
@@ -3705,6 +3985,27 @@ Whirl_Islands.tlst - 1 track
 	Battle! Mewtwo [Stadium]
 	Pokemon/Battle! Mewtwo [Stadium].brstm
 	Volume: 80
+	Frequency: 40
+
+################
+World_2-3.tlst - 4 tracks
+
+	Overworld (Super Mario Bros. 3)
+	W15.brstm (0x280D)
+	Frequency: 40
+
+	Sarasaland Medley
+	Super Mario/Muda - Birabuto.brstm
+	Volume: 85
+	Frequency: 40
+
+	Kalimari Desert
+	Mario Kart/Kalimari Desert.brstm
+	Volume: 80
+	Frequency: 40
+
+	Gritzy Desert
+	A10.brstm (0x271D)
 	Frequency: 40
 
 ################

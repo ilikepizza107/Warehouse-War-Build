@@ -150,6 +150,9 @@ STAGES
 BATTLEFIELD
 Base - Daytime BF by ilikepizza107
 
+FRIGATE HUSK
+R+Start - Hyrule Meadows FH by Motobug, mawwwk, with credit to Dranakar, Scout, davidvkimball, DukeItOut, soopercool101, PMDT
+
 POKEMON STADIUM 2
 Base - WHW4 PS2 by ilikepizza107
 
@@ -164,4 +167,4 @@ MENUS
 
 New "Ready To Fight!" Model by Xenthos
 
-CSS + SSS by ilikepizza107 (4,546KB CSS)
+CSS + SSS by ilikepizza107
